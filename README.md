@@ -1,4 +1,6 @@
 # Simple Calculator App (Android + C++ via JNI)
+![image](https://github.com/user-attachments/assets/007eab2c-d22d-4e6a-9470-866dfc7cba0f)
+
 
 This is a **Simple Calculator App** built using **Android Studio**, which utilizes **C++ (native code) via JNI (Java Native Interface)** to perform arithmetic operations. The app allows users to input two numbers and perform addition, subtraction, multiplication, and division.
 
